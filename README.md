@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antony preetham</h1>
-<h3 align="center">A passionate frontend developer and a student</h3>
+<h3 align="center">A passionate developer and a student</h3>
 
 - 🔭 I’m currently working on **building a website for myself**
 
