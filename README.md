@@ -1,4 +1,4 @@
-![](https://tenor.com/en-IN/view/coding-anime-gif-24565564)
+![MasterHead](https://tenor.com/en-IN/view/coding-anime-gif-24565564)
 <h1 align="center">Hi 👋, I'm Antony preetham</h1>
 <h3 align="center">A passionate developer and a student</h3>
 
