@@ -1,4 +1,8 @@
-<iframe src="https://giphy.com/embed/0lGd2OXXHe4tFhb7Wh" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-internet-bard-chatgpt-0lGd2OXXHe4tFhb7Wh">via GIPHY</a></p>
+  <div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFnb2RocnduYnI1NHg3ZWRtZG9ndmRkOWU2cG15aDNuOWJ1Y2EyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Excited GIF" width="300">
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Antony preetham</h1>
 <h3 align="center">A passionate developer and a student</h3>
 
